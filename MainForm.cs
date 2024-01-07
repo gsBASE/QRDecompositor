@@ -5,10 +5,10 @@ using System.Windows.Forms;
 
 namespace QR472
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         private TextBox[,] textBoxes;
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
 

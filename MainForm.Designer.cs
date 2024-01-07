@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace QR472
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -31,7 +31,7 @@ namespace QR472
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.entryLayoutPanel = new System.Windows.Forms.TableLayoutPanel();
             this.e_TextBox11 = new System.Windows.Forms.TextBox();
             this.e_TextBox33 = new System.Windows.Forms.TextBox();
